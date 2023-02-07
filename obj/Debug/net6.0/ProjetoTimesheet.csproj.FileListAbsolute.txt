@@ -1,0 +1,123 @@
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\appsettings.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.exe
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.deps.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.runtimeconfig.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.pdb
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.AssemblyReference.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.AssemblyInfoInputs.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.AssemblyInfo.cs
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoTimesheet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoTimesheet.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoTimesheet.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoTimesheet.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\scopedcss\bundle\ProjetoTimesheet.styles.css
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.CopyComplete
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\refint\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.pdb
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.genruntimeconfig.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\obj\Debug\net6.0\ref\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\RestSharp.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\aula\ProjetoTimesheet\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.AssemblyInfo.cs
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\refint\ProjetoTimesheet.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.pdb
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\appsettings.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.exe
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.deps.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.runtimeconfig.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.pdb
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\RestSharp.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoTimesheet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoTimesheet.props
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoTimesheet.props
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoTimesheet.props
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\scopedcss\bundle\ProjetoTimesheet.styles.css
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.CopyComplete
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.genruntimeconfig.cache
+C:\Users\gusta\Desktop\ProjetoTimesheet\obj\Debug\net6.0\ref\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\appsettings.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.exe
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.deps.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.runtimeconfig.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\ProjetoTimesheet.pdb
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\RestSharp.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.AssemblyReference.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.AssemblyInfoInputs.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.AssemblyInfo.cs
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoTimesheet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoTimesheet.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoTimesheet.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoTimesheet.props
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\scopedcss\bundle\ProjetoTimesheet.styles.css
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.csproj.CopyComplete
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\refint\ProjetoTimesheet.dll
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.pdb
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ProjetoTimesheet.genruntimeconfig.cache
+C:\Users\gustavo.ribeiro\OneDrive - Gateware\Área de Trabalho\ProjetoTimesheet\obj\Debug\net6.0\ref\ProjetoTimesheet.dll
